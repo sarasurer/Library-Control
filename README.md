@@ -5,8 +5,8 @@
    This final project is being used by a librarian.
   However, if the student wishes, he/she can perform certain operations in the presence of the librarian. One is to view the book he has given and peruse the
   list of books. This event is happening in UserMenu.java. In AdminMenu.java, however, data can be processed one by one. S/he enters the book given by the student and 
-  is automatically.
-  written to the database we have created. We tried this program  on one of our computers. Certain tools were used while writing this program:
+  is automatic.
+  written to the database we have created. We tried this program on one of our computers. Certain tools were used while writing this program:
  
   ```
  * Microsoft SQL Server Management Studio 18

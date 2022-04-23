@@ -47,11 +47,6 @@ import javax.swing.*;
 
 /**
  * @author Jiyan Surer
- * @author Arif Demirel
- * @author Eda Ertürk
- * @author Alp Eren Kesici
- * @author Yiğitalp Kılıç
- *
  * @version 13.2
  *
  */
